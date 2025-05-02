@@ -2,11 +2,8 @@
   "language": "en",
   "author": "Basarat Ali Syed",
   "title": "TypeScript Deep Dive",
-  "plugins": ["edit-link", "github", "adsense","header"],
+  "plugins": ["edit-link", "github", "adsense"],
   "pluginsConfig": {
-    "layout": {
-      "headerPath" : "header.html"
-    },
     "lunr": {
       "ignoreSpecialCharacters": true
     },
